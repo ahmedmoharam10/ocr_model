@@ -1,0 +1,35 @@
+# Core & Web
+fastapi==0.109.1
+uvicorn==0.27.0
+python-multipart==0.0.6
+pydantic==2.6.1
+
+# OCR & Image Processing
+pytesseract==0.3.10
+easyocr==1.7.1
+Pillow==10.2.0
+opencv-python==4.9.0.80
+pdf2image==1.17.0
+PyMuPDF==1.23.25
+
+# NLP & Text Processing
+transformers==4.38.2
+safetensors==0.4.2
+torch==2.2.1
+nltk==3.8.1
+language-tool-python==2.9.4
+symspellpy==6.7.7
+pyspellchecker==0.8.1
+rapidfuzz==3.6.1
+python-Levenshtein==0.23.0
+
+# Google Cloud Vision
+google-cloud-vision==3.5.0
+
+# Additional Utilities
+numpy==1.26.4
+requests==2.31.0
+tqdm==4.66.1
+datasets==2.17.1
+tenacity==8.2.3
+scipy==1.12.0
