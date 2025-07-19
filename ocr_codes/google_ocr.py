@@ -32,7 +32,7 @@ class OCRResult:
 
 class OCRConfig:
     def __init__(self):
-        self.GOOGLE_CREDENTIALS_PATH = "/app/credentials/green-books-462600-dcadf7306d66.json"
+        self.GOOGLE_CREDENTIALS_PATH = "INSERT YOUR API HERE"
         self.USE_GOOGLE_VISION = True
 
 class GoogleVisionEngine:
